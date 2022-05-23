@@ -121,11 +121,15 @@ body {
   margin: 5em 0;
 }
 
+.rodape__logo {
+  margin-bottom: 1em;
+}
+
 .rodape__lista {
   display: flex;
   justify-content: center;
   list-style-type: none;
-  padding: 3em 0;
+  margin: 1em 0;
 }
 
 .lista__link a {
@@ -136,5 +140,5 @@ body {
 
 .rodape__texto {
   color: var(--cinza-secundario);
-  margin: 1em;
+  margin: 2em;
 }
