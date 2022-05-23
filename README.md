@@ -1,3 +1,3 @@
 # Alura Combo+
 
-Página com novos serviços e descontos da Alura.
+Página com serviços Alura+ e Alura Língua.
