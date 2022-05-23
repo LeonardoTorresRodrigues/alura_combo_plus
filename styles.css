@@ -4,6 +4,7 @@
   --botao-azul: #167BF7;
   --cor-de-fundo: #00030C;
   --fonte-principal: 'Inter';
+  --botao-azul-efeito: #3c92fa;
 }
 
 body {
@@ -138,7 +139,20 @@ body {
   padding: 0 1em;
 }
 
+.lista__link a:hover	{
+  color: var(--botao-azul);
+}
+
+.lista__link a:active {
+  color: purple;
+}
+
 .rodape__texto {
   color: var(--cinza-secundario);
   margin: 2em;
+}
+
+.container__botao:hover	{
+  background-color: var(--botao-azul-efeito);
+  color: var(--cor-de-fundo);
 }
