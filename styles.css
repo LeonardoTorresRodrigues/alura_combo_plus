@@ -170,3 +170,37 @@ body {
     margin: 0 2em;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .container {
+    height: 55vh;
+  }
+
+  .container__titulo {
+    font-size: 24px;
+  }
+
+  .container__imagem {
+    width: 100%;
+  }
+
+  .secundario {
+    margin: 0 6em;
+  }
+
+  .descricao__titulo {
+    font-size: 36px;
+  }
+
+  .dispositivos__titulo {
+    font-size: 36px;
+  }
+
+  .dispositivos__lista li img {
+    width: 80%;
+  }
+
+  .lista__item {
+    font-size: 16px;
+  }
+}
