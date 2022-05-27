@@ -156,3 +156,17 @@ body {
   background-color: var(--botao-azul-efeito);
   color: var(--cor-de-fundo);
 }
+
+@media screen and (max-width: 1024px) {
+  .container {
+    height: 75vh;
+  }
+
+  .container__caixa {
+    margin: 0 4em;
+  }
+
+  .dispositivos, .rodape {
+    margin: 0 2em;
+  }
+}
