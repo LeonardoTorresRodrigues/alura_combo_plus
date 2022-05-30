@@ -158,10 +158,6 @@ body {
 }
 
 @media screen and (max-width: 1024px) {
-  .container {
-    height: 75vh;
-  }
-
   .container__caixa {
     margin: 0 4em;
   }
@@ -173,9 +169,7 @@ body {
 }
 
 @media screen and (max-width: 768px) {
-  .container {
-    height: 55vh;
-  }
+  
 
   .container__titulo {
     font-size: 24px;
@@ -260,5 +254,29 @@ body {
 
   .rodape__texto {
     font-size: 8px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .container__caixa {
+    margin: .5em 1.5em 0;
+  }
+
+  .secundario {
+    margin: 0 2em;
+  }
+
+  .container__descricao {
+    padding: 1em;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .container {
+    height: 75vh;
+  }
+
+  .lista__link a {
+    padding: .5em;
   }
 }
