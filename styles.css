@@ -169,7 +169,9 @@ body {
 }
 
 @media screen and (max-width: 768px) {
-  
+  .container {
+    height: 50vh;
+  }
 
   .container__titulo {
     font-size: 24px;
@@ -201,7 +203,9 @@ body {
 }
 
 @media screen and (max-width: 426px) {
-  
+  .container {
+    height: 35vh;
+  }
 
   .container__titulo {
     font-size: 16px;
@@ -248,6 +252,10 @@ body {
     font-size: 16px;
   }
 
+  .dispositivos__lista {
+    align-items: center;
+  }
+
   .lista__link a {
     font-size: 8px;
   }
@@ -258,6 +266,10 @@ body {
 }
 
 @media screen and (max-width: 375px) {
+  .container {
+    height: 35vh;
+  }
+
   .container__caixa {
     margin: .5em 1.5em 0;
   }
@@ -269,11 +281,35 @@ body {
   .container__descricao {
     padding: 1em;
   }
+
+  .dispositivos__lista {
+    align-items: center;
+  }
 }
 
 @media screen and (max-width: 320px) {
   .container {
-    height: 75vh;
+    height: 35vh;
+  }
+
+  .container__caixa {
+    margin: 1em;
+  }
+
+  .secundario {
+    margin: 0 1em;
+  }
+
+  .dispositivos, .rodape {
+    margin: 0 1em;
+  }
+
+  .dispositivos__lista {
+    align-items: center;
+  }
+
+  .lista__item {
+    font-size: 14px;
   }
 
   .lista__link a {
