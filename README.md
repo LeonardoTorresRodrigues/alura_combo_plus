@@ -9,7 +9,9 @@ Página de assinatura dos serviços Alura+ e Alura Língua.
 | :rocket: URL         | https://leonardotorresrodrigues.github.io/alura_combo_plus/
 | :fire: Desafio     | https://alura.com.br
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ![Captura de Tela (132)](https://user-images.githubusercontent.com/91892938/171187272-360f92da-f15e-49e0-85af-32a586ffbff5.png#vitrinedev)
 
 ## Detalhes do projeto
