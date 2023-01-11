@@ -5,7 +5,7 @@ Página de assinatura dos serviços Alura+ e Alura Língua.
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Alura Combo+**
-| :label: Tecnologias | html e css
+| :label: Tecnologias | HTML e CSS
 | :rocket: URL         | https://leonardotorresrodrigues.github.io/alura_combo_plus/
 | :fire: Desafio     | https://alura.com.br
 
