@@ -18,7 +18,4 @@ Página de assinatura dos serviços Alura+ e Alura Língua.
 
 Esta página foi criada durante o curso da Alura "HTML e CSS: praticando HTML/CSS"
 
-## Objetivos
-O desafio era a pratica do HTML e do CSS, usando Grid-tamplates, Flex-box e criando variáveis no CSS.
-#
-Agradecimentos a instrutora da Alura Mônica Mazzochi Hillman pela excelente didática. Link para o GitHub dela: https://github.com/MonicaHillman
+_Agradecimentos a instrutora da Alura Mônica Mazzochi Hillman pela excelente didática. Link para o GitHub dela: https://github.com/MonicaHillman_
