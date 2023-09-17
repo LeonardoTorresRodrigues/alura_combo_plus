@@ -1,6 +1,6 @@
 # Alura Combo+
 
-Página de assinatura dos serviços Alura+ e Alura Língua.
+Página de assinatura.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
