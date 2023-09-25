@@ -1,6 +1,6 @@
 # Alura Combo+
 
-Página de assinatura.
+Página de assinatura do Alrura Combo+
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
